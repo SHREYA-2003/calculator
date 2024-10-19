@@ -3,3 +3,11 @@
 
 
 this is the ui of calculator app
+
+
+
+
+
+
+https://github.com/user-attachments/assets/f8deb9f9-66d3-4add-9af4-e5efa95971a0
+
